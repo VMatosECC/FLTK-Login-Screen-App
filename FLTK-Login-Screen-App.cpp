@@ -1,5 +1,10 @@
 //A Login screen (User & Password)
 //FLTK documentation https://www.fltk.org/doc-1.4/index.html
+//FLTK download https://www.fltk.org/software.php
+// Better if you use => vcpkg install fltk:x64-windows
+// You may use the FLUID UI Designer (although it is not necessary) 
+// to create the UI and then export the code to C++ (looks 1980s style)
+// Try QT Creator for a more modern UI design
 //-----------------------------------------------------------------------------
 #include <FL/Fl.H>
 #include <FL/Fl_Window.H>
